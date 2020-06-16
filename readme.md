@@ -1,3 +1,6 @@
+Updated website for long term sustainability, cleaned up CSS code and consolidated selectors, added for web accessibility.
+
+
 Before | After
 ------------ | -------------
 title website                                 | title Horiseon: Search Engine Optimization
